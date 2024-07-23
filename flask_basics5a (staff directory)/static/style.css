@@ -1,0 +1,19 @@
+body {
+	font-family: "Segoe UI";
+	font-size: 18px;
+}
+
+h1 {
+	color: teal;
+	text-align: center;
+}
+
+li {
+	margin-bottom: 10px;
+}
+
+#info-block {
+	font-weight: bold;
+	text-align: center;
+	border: 5px solid teal;
+}

@@ -1,5 +1,4 @@
--- Note the sequence of table construction:
--- Student, Subject, StudentSubject
+-- Note that we create StudentSubject table LAST.
 
 -- Create the 'Student' table
 CREATE TABLE Student (
